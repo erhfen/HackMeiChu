@@ -1,7 +1,10 @@
 【WebConf 2013 影片推薦】
 ============================
 
-以下為 demo 個人推薦網頁設計師必看的議題 （我目前還沒看完先推這些）
+from TW MVC 粉絲團
+<br>https://www.facebook.com/twmvc/posts/491886450881596</br>
+
+>以下為 demo 個人推薦網頁設計師必看的議題 （我目前還沒看完先推這些）
 
 ### 你們都誤會了，網路是很安全的（翁浩正 Allen Own）
 http://www.youtube.com/watch?v=VRCUpXLguHM
